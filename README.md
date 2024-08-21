@@ -5,10 +5,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramijellali&label=Profile%20views&color=0e75b6&style=flat" alt="ramijellali" /> </p>
 
+
+
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ramijellali" alt="ramijellali" />
   </a> 
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramijellali" alt="ramijellali" />
 </p>
 
 - 🔭 I’m currently working on [AI-ML-Football-Analysis-system](https://github.com/ramijellali/AI-ML-Football-Analysis-system)

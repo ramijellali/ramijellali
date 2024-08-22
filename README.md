@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rami Jellali</h1>
+<h1 align="center">Hiiii 👋, I'm Rami Jellali</h1>
 <h3 align="center">A passionate Data Scientist from Tunisia</h3>
 
 <p align="center">🚀 Currently on a 30-day challenge: 30 ML, DL, and LLM projects! 💪 Enthusiastically diving into machine learning and deep learning every day! 🌟</p>

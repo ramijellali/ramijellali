@@ -1,4 +1,4 @@
-<h1 align="center">Heyy 👋, I'm Rami Jellali</h1>
+<h1 align="center">HeyyY 👋, I'm Rami Jellali</h1>
 <h3 align="center">A passionate Data Scientist from Tunisia</h3>
 
 <p align="center"> 💪 Enthusiastically diving into machine learning and deep learning every day! 🌟</p>
